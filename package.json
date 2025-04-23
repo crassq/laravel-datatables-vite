@@ -1,0 +1,32 @@
+{
+  "name": "laravel-datatables-vite",
+  "version": "1.0.0",
+  "description": "Laravel DataTables with jQuery, Bootstrap and Vite",
+  "main": "js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yajra",
+    "laravel",
+    "dataTables",
+    "vitejs",
+    "bootstrap",
+    "jquery"
+  ],
+  "author": {
+    "name": "Richard Simard",
+    "url": "https://groupesti.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+	"@popperjs/core": "^2.11.8",
+    "bootstrap": "^5.3.5",
+    "bootstrap-icons": "^1.11.3",
+    "datatables.net": "^2.2.2",
+    "datatables.net-bs5": "^2.2.2",
+    "datatables.net-buttons-bs5": "^3.2.2",
+    "datatables.net-select-bs5": "^3.0.0",
+    "jquery": "^3.7.1"
+  }
+}
